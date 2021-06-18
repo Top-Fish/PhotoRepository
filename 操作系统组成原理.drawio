@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T10:07:07.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" version="14.8.0" etag="mXUDBfa-waRqw3ZL_bMX" type="github"><diagram id="p11bRE8ngP6M-khqaFyY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-18T10:53:08.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="mV3IV7JQOYzK6X0DZK_r" version="14.8.0" type="github" pages="7">
+  <diagram id="p11bRE8ngP6M-khqaFyY" name="操作系统组成">
+    <mxGraphModel dx="677" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-1" target="h38YhSIRXOhSa6jcoTgB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-10" target="h38YhSIRXOhSa6jcoTgB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-1" value="应用程序1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#fff2cc;strokeColor=#2D43D6;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-5" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-2" target="h38YhSIRXOhSa6jcoTgB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-2" value="操作系统" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-2" target="h38YhSIRXOhSa6jcoTgB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-4" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-2" target="h38YhSIRXOhSa6jcoTgB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-6" value="内存" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-8" value="外设" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-13" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="h38YhSIRXOhSa6jcoTgB-12" target="h38YhSIRXOhSa6jcoTgB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-10" value="应用程序2" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h38YhSIRXOhSa6jcoTgB-12" value="应用程序3" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D43D6;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xLRGa_nTmlgrps6bXQVo" name="内存管理">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QEgf02N0zIg86aXVgp2i-0" />
+        <mxCell id="QEgf02N0zIg86aXVgp2i-1" parent="QEgf02N0zIg86aXVgp2i-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WY6kClbHrL8J8mtGhh5y" name="进程和线程">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WzJBLU8U2ZF-W4BaIPhQ-0" />
+        <mxCell id="WzJBLU8U2ZF-W4BaIPhQ-1" parent="WzJBLU8U2ZF-W4BaIPhQ-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MaRQQIabfSJm25hH8_wx" name="调度算法">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DPruceKT4zLQYiLaNQUA-0" />
+        <mxCell id="DPruceKT4zLQYiLaNQUA-1" parent="DPruceKT4zLQYiLaNQUA-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jKa-bfqboNmIPDcmVKV7" name="文件系统">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="_7FBScuHLmBfXxVg2PXr-0" />
+        <mxCell id="_7FBScuHLmBfXxVg2PXr-1" parent="_7FBScuHLmBfXxVg2PXr-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XxBzGSkjDDGfqON9Mw7p" name="网络系统">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="25pWcEv39J_jmmNKtJcE-0" />
+        <mxCell id="25pWcEv39J_jmmNKtJcE-1" parent="25pWcEv39J_jmmNKtJcE-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="77Y9Pc_CECw3oCGouw3b" name="小作品">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="V5bLH1JIqrHtPMcGAUPl-0" />
+        <mxCell id="V5bLH1JIqrHtPMcGAUPl-1" parent="V5bLH1JIqrHtPMcGAUPl-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
